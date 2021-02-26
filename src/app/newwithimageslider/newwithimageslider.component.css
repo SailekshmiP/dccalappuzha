@@ -1,0 +1,11 @@
+.text{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px 12px;
+    bottom:8px;
+    text-align: center;
+    background: black;
+    /* length: 30px; */
+}
